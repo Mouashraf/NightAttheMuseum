@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="NightAtTheMuseum2.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\GoogleVR\Scripts\Audio\GvrAudio.cs">
+    <Files>
+      <File FileName="Assets\GoogleVR\Scripts\EventSystem\InputModule\GvrPointerInputModuleImpl.cs" Line="199" Column="1" />
+      <File FileName="Assets\GoogleVR\Scripts\Audio\GvrAudio.cs" Line="87" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
